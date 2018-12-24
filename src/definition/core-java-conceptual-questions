@@ -8,6 +8,7 @@ What jdk contains or composed of and define each components?
 Answer: jdk contains the Java Virtual Machine (JVM), classes comprising the
 Java platform API, and supporting files. Unlike the JDK,
 it does not contain development tools such as compilers and debuggers
+
 What is IDE?
 Answer:Integrated Development Environment.
 What are the IDEs available in the market to support java?
